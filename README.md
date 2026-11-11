@@ -43,16 +43,16 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JosueMg87&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosueMg87&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 📫 ¿Cómo contactarme?
 
-* 💼 **LinkedIn:** [Tu Perfil de LinkedIn](https://linkedin.com)
+* 💼 **LinkedIn:** [Tu Perfil de LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/josuemurillogomez-ing/))
 * ✉️ **Correo electrónico:** [tucorreo@email.com](mailto:tucorreo@email.com)
